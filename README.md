@@ -1,0 +1,2 @@
+# Snasm
+Snasm Cryptocurrency Mining
